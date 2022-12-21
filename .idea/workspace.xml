@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5659803-cb1b-4e87-b642-33d77b434ac7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SolarSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SolarSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SolarSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,14 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Hares Ahmadzai/OneDrive/Desktop/afg/SolarSystemBatch14"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hares Ahmadzai/OneDrive/Desktop/afg/SolarSystemBatch14&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.SolarSystem">
+}</component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SolarSystemB14" />
@@ -54,8 +54,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SolarSystem" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SolarSystem" />
       </list>
     </recent_temporary>
   </component>
